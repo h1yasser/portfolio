@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    user-select: none;
+    background-color: rgb(63,72,204);
+}
+header {
+    margin: 0 auto;
+    width: 431px;
+}
+h1 {
+    background: url(rouge.png) 0% 340px;
+    padding: 1.2rem 0;
+    margin: 0;
+    color:black;
+}
+.score-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 6px;
+    background: rgb(34,177,76);
+}
